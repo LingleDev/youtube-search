@@ -1,0 +1,13 @@
+{
+  "name": "youtube-search.js",
+  "version": "1.0.0-stable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo TEST && exit"
+  },
+  
+  "dependencies": {
+    "snekfetch": "latest",
+    "youtube-info": "latest"
+  }
+}
