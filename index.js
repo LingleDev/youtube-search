@@ -1,5 +1,6 @@
 const snekfetch = require('snekfetch')
 const Events = require('events')
+const yt_info = require('youtube-info')
 
 module.exports = class YTSearch extends Events {
   constructor() {
